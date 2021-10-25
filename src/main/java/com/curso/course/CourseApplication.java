@@ -1,13 +1,13 @@
-package com.curso.WebService_Spring_JPA_Hibernate;
+package com.curso.course;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebServiceSpringJpaHibernateApplication {
+public class CourseApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WebServiceSpringJpaHibernateApplication.class, args);
+		SpringApplication.run(CourseApplication.class, args);
 	}
 
 }
